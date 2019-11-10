@@ -1,5 +1,4 @@
 # MADS_weekly_workout
 Public channel to practice data science skills on projects we find
 
-BINDER with some interactive notebooks for practice.  Trying to figure out how to best do this
-https://hub.gke.mybinder.org/user/pnatland22-mads_weekly_workout-h9e2o8kg/tree
+I think the plan would be to CLONE the #Weekly_Workout, edit the cloned notebook, and then post solutions (maybe using nbviewer) to the #MADS_Weekly_Workout SLACK channel
